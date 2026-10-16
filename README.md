@@ -1,6 +1,6 @@
 # Aryan Sinha
 
-ML infrastructure engineer in Bengaluru. I work on inference in production,
+ML infrastructure engineer, I work on inference in production,
 both LLMs and computer vision: serving with vLLM, llama.cpp, TensorRT-LLM and
 Triton, GPU optimisation, and the Kafka/Kubernetes plumbing around them.
 
